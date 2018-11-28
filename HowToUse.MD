@@ -49,10 +49,10 @@ sudo apt-get update
 sudo apt-get install gcc-4.9
 sudo update-alternatives --install /usr/bin/gcc gcc /usr/bin/gcc-4.9 50
 ```
-**notwork on my machine
+** notwork on my machine
 
 ## ERRORS
 
 link error when new VideoCapture();
 
-**didn't solve
+** didn't solve
