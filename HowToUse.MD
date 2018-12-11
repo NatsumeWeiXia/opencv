@@ -25,6 +25,8 @@ git clone
 ```
 ## so
 ```
+mkdir builds
+cd builds
 cmake -D CMAKE_BUILD_TYPE=RELEASE -D CMAKE_INSTALL_PREFIX=/usr/local/opencv ..
 make
 make install
